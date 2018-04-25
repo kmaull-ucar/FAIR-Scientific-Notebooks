@@ -28,6 +28,9 @@ Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (
 
 This repository contains the work and explorations around making scientific notebooks FAIR.
 
+* **POSTER [[PNG Full Size Download](./poster/SCISOFTDAYS_04262018_FAIR_Notebooks_FINAL_42x28.png)]:** _Towards FAIR Scientific Notebooks_ poster presented at [SciSoftDays Workshop 2018](http://scisoftdays.org).
+* **NOTEBOOKS:** The Jupyter Notebooks that document our work and experiments are [here](./notebooks). 
+
 ## CITING THIS WORK
 
 You may cite the poster for this work:
