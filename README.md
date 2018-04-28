@@ -34,9 +34,9 @@ This repository contains the work and explorations around making scientific note
 
 ## CITING THIS WORK
 
-You may cite the poster for this work:
+You may cite the **poster** for this work:
 
-Maull, K. E., Gordon, S., Mayernik, M. (2018). _Towards FAIR Scientific Notebooks_. Poster session presented at the 9th Annual Scientific Software Days Workshop, University of Texas, Austin, TX.
+Maull, K. E., Gordon, S., Mayernik, M. (2018). _Towards FAIR Scientific Notebooks_. Poster presented at the 9th Annual Scientific Software Days Workshop, University of Texas, Austin, TX. doi: [10.6084/m9.figshare.6198554.v1](https://doi.org/10.6084/m9.figshare.6198554.v1)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
