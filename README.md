@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.6198554.v1-brightgreen.svg)](https://doi.org/10.6084/m9.figshare.6198554.v1)
+
 # TOWARDS FAIR SCIENTIFIC NOTEBOOKS
 
 Nearly all of modern scientific inquiry is built upon data and analyses that are the result of complex computational workflows.  Large scale scientific software packages are the glue of much of this inquiry, but increasingly, tools such as Jupyter Notebooks, Beaker, Zeppelin and others, are supporting scientific inquiry through open, interactive and executable containers of scientific notebooks.  The growth in data and scientific software, alongside these scientific notebooks, is exposing challenges for facilitating discovery and access to all of these important artifacts. 
